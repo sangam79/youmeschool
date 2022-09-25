@@ -1,0 +1,62 @@
+body{
+  background:white;  
+}
+.e-magazine{
+  display: flex;
+  justify-content: space-around;
+}
+.pic{
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color:black;
+  font-size: 20px;
+  font-family: sans-serif;
+  
+}
+.upper{
+  border: 3px solid;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.c{
+  height:200px;
+  width: 100%;
+}
+
+
+.h-p{
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color:black;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+.upper{
+border: 1px solid;
+}
+
+.h{
+  height: 200px;
+  width: 100%;
+}
+.k-u{
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color:black;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+.upper{
+  border: 1px solid;
+  
+  
+}
